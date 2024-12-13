@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Professional Summary
 
 Hello! I’m Ibukunoluwa Fola Olawuyi, a Research Professor at Kyungpook National University in Daegu, South Korea. My work spans the exciting intersection of food science, biopolymer chemistry, and sustainable technologies. I specialize in developing eco-friendly food packaging solutions and leveraging green technologies to transform agricultural byproducts into valuable resources. I’m deeply committed to advancing clean-label food innovations and mentoring the next generation of food scientists.
 
