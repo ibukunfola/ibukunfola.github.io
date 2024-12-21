@@ -1,7 +1,7 @@
 ---
 title: "Grant for Establishment of eco-friendly separation process for cellulose-polysaccharide from sea
 squirt waste"
-excerpt: "Funding $210,000<br/><img src='https://github.com/ibukunfola/ibukunfola/blob/master/images/Ibukun_grant.jpg?raw=true'>"
+excerpt: "Funding $210,000<br/><img src='https://github.com/ibukunfola/ibukunfola/blob/master/images/Ibukun_grant.jpg?raw=true' />"
 collection: grants
 ---
 
