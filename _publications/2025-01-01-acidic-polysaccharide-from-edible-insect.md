@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-01-01-acidic-polysaccharide-from-edible-insect
 excerpt: 'This study reports purification and structural characterization of polysaccharides from Protaetia brevitarsis seulensis larvae (PBSL) with antiviral activity against murine norovirus.'
 date: 2025-01-01
-venue: 'Journal 1'
+venue: 'Carbohydrate Polymers'
 paperurl: 'https://doi.org/10.1016/j.carbpol.2024.122587'
 citation: 'Ibukunoluwa Fola Olawuyi, Eun Heo, Minju Jeong, Jae Hwan Kim, Jong-Jin Park, Jongbeom Chae, Subin Gwon, Seong Do Lee, Hunseong Kim, Oyindamola Vivian Ojulari, Young-Bo Song, Byung-Hoo Lee, Bon Bin Gu, Soo Rin Kim, Joon Ha Lee, Wonyoung Lee, Jae Sam Hwang, Ju-Ock Nam, Dongyup Hahn, Sanguine Byun. (2025). &quot;Acidic polysaccharide from the edible insect Protaetia brevitarsis seulensis activates antiviral immunity to suppress norovirus infection.&quot; <i>Journal 1</i>. 347.'
 ---
