@@ -3,7 +3,7 @@ title: "Acidic polysaccharide from the edible insect Protaetia brevitarsis seule
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-acidic-polysaccharide-from-edible-insect
-excerpt: 'This study reports purification and structural characterization of polysaccharides from Protaetia brevitarsis seulensis larvae (PBSL) with antiviral activity against murine norovirus.'
+excerpt: 'Purification and structural characterization of polysaccharides from Protaetia brevitarsis seulensis larvae (PBSL) with antiviral activity against murine norovirus.'
 date: 2025-01-01
 venue: 'Carbohydrate Polymers'
 paperurl: 'https://doi.org/10.1016/j.carbpol.2024.122587'
