@@ -1,11 +1,11 @@
 ---
 title: "Grant for Establishment of eco-friendly separation process for cellulose-polysaccharide from sea
 squirt waste"
-excerpt: "Funding $210,000<br/><img src='/images/Ibukun_grant.jpg'>"
+excerpt: "Funding $210,000<br/><img src='https://github.com/ibukunfola/ibukunfola/blob/master/images/Ibukun_grant.jpg?raw=true'>"
 collection: grants
 ---
 
-![Grant](/images/Ibukun_grant.jpg)
+![Grant](https://github.com/ibukunfola/ibukunfola/blob/master/images/Ibukun_grant.jpg?raw=true)
 
 Dr Ibukunoluwa is the recipient of the National Research Foundation, Korea grant. The project entails the establishment of eco-friendly seperation process for cellulose-polysaccharide from sea squirt waste. 
 This grant worth $210,000, spanning from June 2023 to May 2026, will enable him to advance his research on "Waste Upcycling," pushing the boundaries of knowledge and innovation in his field.
