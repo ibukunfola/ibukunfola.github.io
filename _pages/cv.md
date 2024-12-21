@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Food Science and Biotechnology, Kyungpook National University, 2023
+* M.S. in Food Science and Biotechnology, Kyungpook National University, 2020
+* B.S. in Food Science, Universityof Ilorin, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* *March 2024 - Present:* **Research Professor**
+  * Research Institute for Tailored Food Technology, Kyungpook National University, Daegu, Korea
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* *March 2023 - February 2024*: **Post-doctoral Fellow**
+  * Research Institute for Tailored Food Technology, Kyungpook National University, Daegu, Korea
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *March 2018 - February 2023*: **Post-doctoral Fellow**
+  * Food Quality Control Engineering Laboratory, Kyungpook National University, Daegu, South Korea
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* *December 2017 - February 2018*: **Quality Control Officer**
+  * Dufil Food Industries, Indomie noodle plant, Lagos, Nigeria
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Research Interests
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Biopolymer characterization
+* Eco-friendly food packaging solutions
+* Valorization of agricultural side-streams
+* Clean-label food fortification strategies
+* Green technologies for extraction
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Registered Patents
 ======
-* Currently signed in to 43 different slack teams
+* Method for extracting protein derived from edible insects and anti-inflammator composition containing the same *(KOR, 2024)*.
+* Manufacturing method of Capsicum annuum L. extract with high capsaicin content *(KOR,2023)*.
+* Pre-treatment method of paeony to improve blood circulation *(KOR, 2021)*.
+  
+Professional Affiliations
+======
+* Member, Korean Association of Carbohydrate Research (KACR)
+* Member, Korean Society of Food Preservation (KOSFOP)
+* Member, The Korean Society of Food Science and Nutrition (KFN)
+* Member, Korean Society of Food Science and Technology (KOSFOST)
+* Licentiate Member, Nigerian Institute of Food Science and Technology (NIFST)
