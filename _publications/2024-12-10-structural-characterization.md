@@ -3,7 +3,7 @@ title: "Structural characterization and immune-enhancing properties of an acidic
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-10-structural-characterization
-excerpt: 'his study investigated the immunomodulatory properties of polysaccharides isolated from Protaetia brevitarsis seulensis larvae (PBSL).'
+excerpt: 'This study investigated the immunomodulatory properties of polysaccharides isolated from Protaetia brevitarsis seulensis larvae (PBSL).'
 date: 2024-12-10
 venue: 'Future Foods'
 paperurl: 'https://doi.org/10.1016/j.fufo.2024.100439'
