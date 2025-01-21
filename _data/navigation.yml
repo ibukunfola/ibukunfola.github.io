@@ -14,7 +14,7 @@ main:
   - title: "Research Projects & Grants"
     url: /portfolio/
         
-  #- title: "Blog Posts"
+  - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
