@@ -7,7 +7,7 @@ excerpt: 'Purification and structural characterization of polysaccharides from _
 date: 2025-01-01
 venue: 'Carbohydrate Polymers'
 paperurl: 'https://doi.org/10.1016/j.carbpol.2024.122587'
-citation: 'Ibukunoluwa Fola Olawuyi, Eun Heo, Minju Jeong, Jae Hwan Kim, Jong-Jin Park, Jongbeom Chae, Subin Gwon, Seong Do Lee, Hunseong Kim, Oyindamola Vivian Ojulari, Young-Bo Song, Byung-Hoo Lee, Bon Bin Gu, Soo Rin Kim, Joon Ha Lee, Wonyoung Lee, Jae Sam Hwang, Ju-Ock Nam, Dongyup Hahn, Sanguine Byun. (2025). &quot;Acidic polysaccharide from the edible insect _Protaetia brevitarsis seulensis_ activates antiviral immunity to suppress norovirus infection.&quot; <i>Carbohydrate Polymers</i>. 347.'
+citation: 'Ibukunoluwa Fola Olawuyi, Eun Heo, Minju Jeong, Jae Hwan Kim, Jong-Jin Park, Jongbeom Chae, Subin Gwon, Seong Do Lee, Hunseong Kim, Oyindamola Vivian Ojulari, Young-Bo Song, Byung-Hoo Lee, Bon Bin Gu, Soo Rin Kim, Joon Ha Lee, Wonyoung Lee, Jae Sam Hwang, Ju-Ock Nam, Dongyup Hahn, Sanguine Byun. (2025). &quot;Acidic polysaccharide from the edible insect Protaetia brevitarsis seulensis activates antiviral immunity to suppress norovirus infection.&quot; <i>Carbohydrate Polymers</i>. 347.'
 ---
 
 ![Graphical Abstract](https://ars.els-cdn.com/content/image/1-s2.0-S0144861724008130-ga1_lrg.jpg)
