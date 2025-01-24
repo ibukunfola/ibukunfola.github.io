@@ -3,7 +3,7 @@ title: "Optimization of ultrasound-assisted enzymatic hydrolysis Zophobas morio 
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-01-optimization-ZMP
-excerpt: 'The proposed hybrid methods are applicable for efficient extraction of Zophobas morio protein with improved biological activities.'
+excerpt: 'This study proposed and optimized a novel method of ultrasound-assisted enzymatic hydrolysis of _Zophobas morio_ protein enhancing its antioxidant properties and protective effects against H2O2-induced oxidative stress.'
 date: 2025-04-01
 venue: 'International Journal of Biological Macromolecules'
 paperurl: 'https://doi.org/10.1016/j.ijbiomac.2025.140111'
