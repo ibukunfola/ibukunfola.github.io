@@ -7,7 +7,7 @@ excerpt: 'This study proposed and optimized a novel method of ultrasound-assiste
 date: 2025-04-01
 venue: 'International Journal of Biological Macromolecules'
 paperurl: 'https://doi.org/10.1016/j.ijbiomac.2025.140111'
-citation: 'Ha-Seong Cho, Ju-Hwi Park, Ibukunoluwa Fola Olawuyi, Ju-Ock Nam, Won-Young Lee. (2025). &quot; Optimization of ultrasound-assisted enzymatic hydrolysis _Zophobas morio_ protein and its protective effects against H2O2-induced oxidative stress in RAW264.7 cells,
+citation: 'Ha-Seong Cho, Ju-Hwi Park, Ibukunoluwa Fola Olawuyi, Ju-Ock Nam, Won-Young Lee. (2025). &quot; Optimization of ultrasound-assisted enzymatic hydrolysis Zophobas morio protein and its protective effects against H2O2-induced oxidative stress in RAW264.7 cells,
 International Journal of Biological Macromolecules.&quot; <i>International Journal of Biological Macromolecules</i>. 298.'
 ---
 
